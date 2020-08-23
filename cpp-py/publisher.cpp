@@ -2,7 +2,7 @@
 #include <chrono>
 #include <thread>
 
-#include <build/msg.pb.h>
+#include <cpp-py/msg.pb.h>
 
 #include <zmq.hpp>
 

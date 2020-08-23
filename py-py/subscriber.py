@@ -1,7 +1,8 @@
 import zmq
 import sys
 import google.protobuf.text_format
-# protoc output for testmsg.proto:
+
+# protoc output for msg.proto:
 from msg_pb2 import *
 
 context = zmq.Context()
